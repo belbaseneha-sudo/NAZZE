@@ -23,3 +23,6 @@ This is an academic front-end project. Checkout is simulated; there is no live p
 
 ## Figma Design
 [View the interactive NAZZÉ prototype](https://www.figma.com/proto/6gGImg0D6mrJN23PKjLj22/ICT725-Assessment-3-%E2%80%93-NAZZ%C3%89-Fashion-App?node-id=1-4&t=7BN3pRRNgFgfGTaT-1)
+## Project Screenshots
+
+[View the NAZZÉ screenshot gallery](screenshots/README.md)
