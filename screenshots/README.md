@@ -1,5 +1,5 @@
 NAZZÉ project screenshots
-<img width="430" height="990" alt="image" src="https://github.com/user-attachments/assets/c40c59c7-8dba-4d02-bbd8-852ed4954115" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c40c59c7-8dba-4d02-bbd8-852ed4954115" />
 <img width="424" height="993" alt="image" src="https://github.com/user-attachments/assets/dfa3385b-6c70-4d28-9a31-aecb351df046" />
 <img width="511" height="1197" alt="image" src="https://github.com/user-attachments/assets/29f12d1d-8727-4b5f-ba2d-c337d94c8f65" />
 <img width="404" height="948" alt="image" src="https://github.com/user-attachments/assets/dea3080b-7666-44e5-8a63-913f7a3de9fc" />
